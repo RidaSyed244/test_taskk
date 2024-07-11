@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869175858623",
+    "project_id": "test-taskk",
+    "storage_bucket": "test-taskk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869175858623:android:1e786c765f08871bc23d0a",
+        "android_client_info": {
+          "package_name": "com.example.test_taskk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEO8bygMTdVbnHXVbdL2K_mVOSKG8g8Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
